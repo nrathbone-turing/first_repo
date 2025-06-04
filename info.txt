@@ -1,0 +1,3 @@
+"Hello I am [INSERT YOUR NAME HERE] and this is a test commit for this repository"
+
+Hello I am Nick Rathbone and this is a test commit for this repository
